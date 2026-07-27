@@ -55,12 +55,11 @@ The goal of this project is to analyze the sales performance and customer trends
 1. **Clone the Repository:**
 ```bash
 git clone [https://github.com/faris712/Purwadhika-Capstone-Project-2.git](https://github.com/faris712/Purwadhika-Capstone-Project-2.git)
-cd Purwadhika-Capstone-Project-2
 
 ```
 
 
-2. **Install Dependencies:**
+2. **Install Dependencies:** It is recommended to use a virtual environment (e.g., venv or Conda). Install the required libraries using:
 ```bash
 pip install -r requirements.txt
 
