@@ -4,6 +4,8 @@
 [![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-E97627.svg)](https://public.tableau.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+[📊 Interactive Tableau Dashboard](https://public.tableau.com/views/CapstoneProject2-SaaSSales/ExecutivePerformanceOverview)
+
 ## 📌 Project Overview
 This repository contains **Capstone Project 2** for the Data Science & Machine Learning Program at **Purwadhika Digital Technology School**. 
 
@@ -69,5 +71,3 @@ pip install -r requirements.txt
 
 3. **Explore the Notebook:**
 Launch VS Code or Jupyter Notebook to run the `.ipynb` file.
-
-[📊 Interactive Tableau Dashboard](https://public.tableau.com/views/CapstoneProject2-SaaSSales/ExecutivePerformanceOverview)
