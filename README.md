@@ -1,6 +1,6 @@
 # SaaS Sales Performance Analysis
 
-[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.1.4-blue.svg)](https://www.python.org/)
 [![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-E97627.svg)](https://public.tableau.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
