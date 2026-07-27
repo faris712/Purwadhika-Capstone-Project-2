@@ -60,10 +60,8 @@ cd Purwadhika-Capstone-Project-2
 ```
 
 
-2. **Set Up the Virtual Environment & Install Dependencies:**
+2. **Install Dependencies:**
 ```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
 ```
