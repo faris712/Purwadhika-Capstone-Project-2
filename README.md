@@ -1,6 +1,6 @@
 # SaaS Sales Performance Analysis
 
-[![Python](https://img.shields.io/badge/Python-3.1.4-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.14.3-blue.svg)](https://www.python.org/)
 [![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-E97627.svg)](https://public.tableau.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
@@ -20,7 +20,7 @@ The goal of this project is to analyze the sales performance and customer trends
 ---
 
 ## 🛠️ Tools & Technologies
-* **Programming Language:** Python 3.x
+* **Programming Language:** Python 3.14.3
 * **Data Manipulation & Analysis:** `pandas`, `numpy`
 * **Data Visualization:** `matplotlib`, `seaborn`
 * **Interactive Dashboards:** Tableau
@@ -30,12 +30,11 @@ The goal of this project is to analyze the sales performance and customer trends
 
 ## 📂 Repository Structure
 ```text
-├── data/                      # Raw and cleaned dataset files
-├── notebooks/                 # Jupyter Notebooks containing EDA and analysis
-├── assets/                    # Images, charts, and dashboard screenshots
-├── .gitignore                 # Files to ignore in Git
-├── README.md                  # Project documentation
-└── requirements.txt           # Required Python libraries
+├── assets/                                                     # Tableu dashboard screenshots
+├── Faris Ridho_Capstone Project 2 Documentation.ipynb          # Main notebook containing EDA, analysis, and conclusions
+├── README.md                                                   # Project documentation
+├── SaaS Sales Performance Analysis – Capstone Project 2.pdf    # Presentation slides
+└── requirements.txt                                            # Required Python packages
 
 ```
 
@@ -69,11 +68,6 @@ pip install -r requirements.txt
 
 
 3. **Explore the Notebook:**
-Launch VS Code or Jupyter Notebook to run the `.ipynb` files in the `notebooks/` directory.
+Launch VS Code or Jupyter Notebook to run the `.ipynb` file.
 
----
-
-## 👤 Author
-
-* **Faris** - [GitHub Profile](https://www.google.com/search?q=https://github.com/faris712)
-* **Program:** Purwadhika Digital Technology School – Data Science & Machine Learning
+[📊 Interactive Tableau Dashboard](https://public.tableau.com/views/CapstoneProject2-SaaSSales/ExecutivePerformanceOverview)
